@@ -1,2 +1,3 @@
 # best-repo-ever
-change
+
+change konflikt linia2
